@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
