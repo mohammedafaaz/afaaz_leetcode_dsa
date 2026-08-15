@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedafaaz/afaaz_leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
